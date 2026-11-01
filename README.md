@@ -1,6 +1,6 @@
 # Code for Chan et al. (2026) Ecosystems
 
-Welcome! This is a repository for the code for the litterfall model in our paper:
+This is a repository for the code for the litterfall model in our paper:
 
 > Chan PJ, Hu K, Elliott T, Lai HR, Burns B, Schwendenmann L (2026). Dieback disease increases short-term spatial heterogeneity and litterfall inputs in forests dominated by a long-lived foundation species. *Ecosystems* 29:91. https://doi.org/10.1007/s10021-026-01113-8
 
